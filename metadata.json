@@ -1,7 +1,0 @@
-{
-  "name": "GeoSpatial Analyzer",
-  "description": "A geospatial analysis tool to visualize KML/KMZ datasets and perform nearest-neighbor analysis using Turf.js and Google Maps Grounding.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
